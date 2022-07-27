@@ -1,0 +1,30 @@
+h1 {
+    color: red;
+    background-color: rgb(171, 197, 220);
+    font-size: 20px;
+    text-decoration: none;
+    font-family: Arial;
+    text-align: center;
+    border: 2px solid red;
+    margin: 10px;
+}
+
+p {                            
+    color: gray;
+    text-align: justify;
+    text-justify: inter-word;
+    line-height: 30px;
+    letter-spacing: 2px;
+    /* column-count: 3;
+    column-gap: 30px; */
+}
+
+ul {
+    border: 2px solid red;
+    background-color: rgb(167, 123, 123);
+}
+
+li {
+    list-style-type: square;
+    text-shadow: 2px 2px #E9E9E9;
+}

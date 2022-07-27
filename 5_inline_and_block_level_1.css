@@ -1,0 +1,42 @@
+/* Reversing each others nature */
+/* Block Level Elements */
+p {
+    display: inline;
+}
+
+h1 {
+    display: inline;
+}
+
+div {
+    display: inline;
+}
+
+ul {
+    display: inline;
+}
+
+li {
+    display: inline;
+}
+
+/* Inline Elements */
+span {
+    display: block;
+}
+
+img {
+    display: block;
+}
+
+a {
+    display: block;
+}
+
+em {
+    display: block;
+}
+
+strong {
+    display: block;
+}
